@@ -13,12 +13,6 @@ class RestControllerClassTest {
     void shouldReturnAllStudents() {
 
     }
+    
 
-    @Test
-    void addStudent() {
-    }
-
-    @Test
-    void getStudentByName() {
-    }
 }
